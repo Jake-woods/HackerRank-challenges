@@ -36,3 +36,5 @@ function main() {
    console.log(s + aString);
    // The 's' variable above should be printed first.
 }
+
+// https://www.hackerrank.com/challenges/30-data-types/problem
