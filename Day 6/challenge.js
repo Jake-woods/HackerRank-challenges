@@ -30,7 +30,7 @@ function processData(input) {
 // Looping through the message length
 // Checking each character to see if the index is even or odd
 // Adding to each accordingly
-// Printing final value of evens and odds/
+// Printing final value of evens and odds
 
 
 process.stdin.resume();
